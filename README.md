@@ -1,22 +1,14 @@
 # 👋 Los procesos cuentan historias  
 
-Algunas son caóticas, otras invisibles.  
-Pero al final, todas están compuestas por decisiones, personas y resultados.
-
-Mi trabajo es hacerlas **medibles, entendibles y mejorables**, no solo desde la tecnología, sino integrando a quienes las ejecutan.
+Algunas son caóticas, otras invisibles. Pero al final, todas están compuestas por decisiones, personas y resultados. Mi trabajo es hacerlas **medibles, entendibles y mejorables**, no solo desde la tecnología, sino integrando a quienes las ejecutan.
 
 ---
 
-## 🧩 ¿Qué hago?
+## 🧩 Mi enfoque
 
-Trabajo en la intersección entre **Operaciones, Datos y Tecnología**,  
-convirtiendo procesos difusos en sistemas estructurados que permiten tomar decisiones.
+Trabajo en la intersección entre **Operaciones, Datos y Tecnología**, convirtiendo procesos difusos en sistemas estructurados que permiten tomar decisiones.
 
----
-
-## ⚙️ ¿Cómo lo hago?
-
-Combino enfoque de gestión con herramientas analíticas:
+Combino metodologías de gestión con herramientas analíticas:
 
 - ⚙️ Gestión de proyectos bajo marcos Lean, Scrum y PMBOK.
 - 📊 Control de gestión, KPIs y análisis estadístico (descriptivo y predictivo).
@@ -28,4 +20,5 @@ Pero más allá de las herramientas, diseño soluciones que las personas puedan 
 
 ## 🎯 Creo que los datos por sí solos no transforman organizaciones.  
 Las personas sí.
+
 Por eso, integro analítica con gestión del cambio para asegurar que cada solución no solo funcione, sino que genere impacto real.
