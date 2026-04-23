@@ -11,7 +11,9 @@ Trabajo en la intersección entre **Operaciones, Datos y Tecnología**, convirti
 Combino metodologías de gestión con herramientas analíticas:
 
 ⚙️ Gestión de proyectos bajo marcos Lean, Scrum y PMBOK.
+
 📊 Control de gestión, KPIs y análisis estadístico (descriptivo y predictivo).
+
 🧠 Uso intensivo de Power BI (PL300), Python, Power Platform y AppSheet.
 
 Pero más allá de las herramientas, diseño soluciones que las personas puedan usar, adoptar y sostener en el tiempo.
